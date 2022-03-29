@@ -117,6 +117,8 @@ These parameters can be set inline. E.g. by executing
 ```bash
 python run.py --EXP_NAME experiment --MODEL_TYPE 1 --DATA_PATH /data/MSRVD-QA --GPU 1 --SEED 42
 ```
+# Pre-trained models
+Our pre-trained models are available here [⬇](https://drive.google.com/drive/folders/172yj4iUkF1U1WOPdA5KuKOTQXkgzFEzS)
 
 # Acknowledgements
 We thank the Vision and Language Group@ MIL for their [MCAN](https://github.com/MILVLG/mcan-vqa) open source implementation, [DavidA](https://github.com/DavideA/c3d-pytorch/blob/master/C3D_model.py) for his pretrained C3D model and finally [ixaxaar](https://github.com/ixaxaar/pytorch-dnc) for his DNC implementation.
