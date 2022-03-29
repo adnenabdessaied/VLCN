@@ -1,4 +1,5 @@
 This is the official code of the paper **Video Language Co-Attention with Fast-Learning Feature Fusion for VideoQA**.
+If you find our code useful, please cite our paper:
 
 # Overview
 <p align="center"><img src="assets/overview_project_one.png" alt="drawing" width="600" height="400"/></p>
