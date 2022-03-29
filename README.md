@@ -1,12 +1,12 @@
 # Metadata
 **Title:** Video Language Co-Attention with Fast-Learning Feature Fusion for VideoQA
 
-| <center>Author(s)</center> | <center>Venue</center> | <center>Year</center> | <center>Paper</center> | <center>Code</center> | <center>Models</center> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Joint submission @abdessaied & @sood | Repl4NLP @ ACL | 2022 |[:leaves:](https://www.overleaf.com/project/609624cd3cd1ae7de563a7f4)[📜](https://git.hcics.simtech.uni-stuttgart.de/submissions/neurips2021_adnen_ekta/-/tree/master/paper) | [💻](https://git.hcics.simtech.uni-stuttgart.de/submissions/neurips2021_adnen_ekta/-/tree/master/code) | [⬇️](https://drive.google.com/drive/folders/172yj4iUkF1U1WOPdA5KuKOTQXkgzFEzS?usp=sharing) | 
+| <center>Venue</center> | <center>Year</center> | <center>Paper</center> | <center>Code</center> | <center>Models</center> |
+| :---: | :---: | :---: | :---: | :---: |
+| Repl4NLP @ ACL | 2022 |[:leaves:](https://www.overleaf.com/project/609624cd3cd1ae7de563a7f4)[📜](https://git.hcics.simtech.uni-stuttgart.de/submissions/neurips2021_adnen_ekta/-/tree/master/paper) | [💻](https://git.hcics.simtech.uni-stuttgart.de/submissions/neurips2021_adnen_ekta/-/tree/master/code) | [⬇️](https://drive.google.com/drive/folders/172yj4iUkF1U1WOPdA5KuKOTQXkgzFEzS?usp=sharing) | 
 
 # Overview
-<p align="center"><img src="paper/figures/overview.png" alt="drawing" width="600" height="400"/></p>
+<p align="center"><img src="assets/overview.png" alt="drawing" width="600" height="400"/></p>
 
 # Results 
 Our VLCN model achieves **new** state-of-the-art results on two open-ended VideoQA datasets **MSVD-QA** and **MSRVTT-QA**.
