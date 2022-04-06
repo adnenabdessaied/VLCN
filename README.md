@@ -2,6 +2,15 @@
 
 This is the official code of the paper **Video Language Co-Attention with Fast-Learning Feature Fusion for VideoQA**.
 If you find our code useful, please cite our paper:
+```
+@inproceedings{abdessaied22_repl4NLP,
+  author = {Abdessaied, Adnen and Sood, Ekta and Bulling, Andreas},
+  title = {Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for VideoQA},
+  booktitle = {Proc. of the 7th Workshop on Representation Learning for NLP (Repl4NLP) @ ACL2022},
+  year = {2022},
+  pages = {1--12}
+}
+```
 
 # Overview
 <p align="center"><img src="assets/overview_project_one.png" alt="drawing" width="600" height="400"/></p>
