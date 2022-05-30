@@ -8,7 +8,7 @@ If you find our code useful, please cite our paper:
   title = {Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for VideoQA},
   booktitle = {Proc. of the 7th Workshop on Representation Learning for NLP (Repl4NLP) @ ACL2022},
   year = {2022},
-  pages = {1--12}
+  pages = {143--155}
 }
 ```
 
