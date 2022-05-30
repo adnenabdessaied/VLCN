@@ -6,7 +6,7 @@ If you find our code useful, please cite our paper:
 @inproceedings{abdessaied22_repl4NLP,
   author = {Abdessaied, Adnen and Sood, Ekta and Bulling, Andreas},
   title = {Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for VideoQA},
-  booktitle = {Proc. of the 7th Workshop on Representation Learning for NLP (Repl4NLP) @ ACL2022},
+  booktitle = {Proc. of the 7th Workshop on Representation Learning for NLP (RepL4NLP) @ ACL2022},
   year = {2022},
   pages = {143--155}
 }
