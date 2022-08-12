@@ -4,7 +4,7 @@ This repository contains the official code of the paper:
 **Video Language Co-Attention with Fast-Learning Feature Fusion for VideoQA** [[PDF](https://aclanthology.org/2022.repl4nlp-1.15.pdf)]  
 [Adnen Abdessaied](https://adnenabdessaied.de), [Ekta Sood](https://perceptualui.org/people/sood/), [Andreas Bulling](https://perceptualui.org/people/bulling/)  
 **Poster**  
-Representation Learning for NLP (RepL4NLP) @ ACL 2022 / Dublin, Ireland.
+Representation Learning for NLP (RepL4NLP) @ ACL 2022 / Dublin, Ireland :ireland:
 
 If you find our code useful or use it in your own projects, please cite our paper:
 
