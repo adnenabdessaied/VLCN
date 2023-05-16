@@ -1,22 +1,25 @@
-# VLCN
-This repository contains the official code of the paper:
+<div align="center">
+<h1> Video Language Co-Attention with Fast-Learning Feature Fusion for VideoQA </h1>
 
-**Video Language Co-Attention with Fast-Learning Feature Fusion for VideoQA** [[PDF](https://aclanthology.org/2022.repl4nlp-1.15.pdf)]  
-[Adnen Abdessaied](https://adnenabdessaied.de), [Ekta Sood](https://perceptualui.org/people/sood/), [Andreas Bulling](https://perceptualui.org/people/bulling/)  
-**Poster**  
-Representation Learning for NLP (RepL4NLP) @ ACL 2022 / Dublin, Ireland :ireland:
+**[Adnen Abdessaied][1], &nbsp; [Ekta Sood][2], &nbsp; [Andreas Bulling][3]** <br>
 
+**Published at [Relp4NLP @ ACL 2022][4] 🇮🇪: [[PDF][5]]** <br>
+</div>
+
+# Citation 
 If you find our code useful or use it in your own projects, please cite our paper:
 
-```
-@inproceedings{abdessaied22_repl4NLP,
-  author = {Abdessaied, Adnen and Sood, Ekta and Bulling, Andreas},
-  title = {Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for VideoQA},
-  booktitle = {Proc. of the 7th Workshop on Representation Learning for NLP (RepL4NLP) @ ACL2022},
-  year = {2022},
-  pages = {1--12}
+```bibtex
+@inproceedings{abdessaied-etal-2022-video,
+    title = "Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for {V}ideo{QA}",
+    author = "Abdessaied, Adnen  and Sood, Ekta  and Bulling, Andreas",
+    booktitle = "Proceedings of the 7th Workshop on Representation Learning for NLP",
+    year = "2022",
+    url = "https://aclanthology.org/2022.repl4nlp-1.15",
+    pages = "143--155",
 }
 ```
+
 # Abstract
 We propose the Video Language CoAttention Network (VLCN) – a novel memory-enhanced model for Video Question Answering (VideoQA). Our model combines two original contributions: A multimodal fast-learning feature fusion (FLF) block and a mechanism that uses selfattended language features to separately guide neural attention on both static and dynamic visual features extracted from individual video frames and short video clips. When trained from scratch, VLCN achieves competitive results with the state of the
 art on both MSVD-QA and MSRVTT-QA with 38.06% and 36.01% test accuracies, respectively. Through an ablation study, we further show that FLF improves generalization across different VideoQA datasets and performance for question types that are notoriously challenging in current datasets, such as long questions that require deeper reasoning as well as questions with rare answers
@@ -145,7 +148,12 @@ We thank the Vision and Language Group@ MIL for their [MCAN](https://github.com/
 
 # Contributors
 
-- [Adnen Abdessaied](https://adnenabdessaied.de)
+- [Adnen Abdessaied][1]
 
 For any questions or enquiries, don't not hesitate to contact the above contributor.
 
+[1]: https://adnenabdessaied.de
+[2]: https://perceptualui.org/people/sood/
+[3]: https://perceptualui.org/people/bulling/
+[4]: https://sites.google.com/view/repl4nlp2022/
+[5]: https://aclanthology.org/2022.repl4nlp-1.15.pdf
