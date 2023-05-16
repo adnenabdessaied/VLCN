@@ -3,7 +3,7 @@
 
 **[Adnen Abdessaied][1], &nbsp; [Ekta Sood][2], &nbsp; [Andreas Bulling][3]** <br>
 
-**Published at [Relp4NLP @ ACL 2022][4] 🇮🇪: [[PDF][5]]** <br>
+**Published at [Relp4NLP @ ACL 2022][4] 🇮🇪 [[Paper][5]]** <br>
 </div>
 
 # Citation 
